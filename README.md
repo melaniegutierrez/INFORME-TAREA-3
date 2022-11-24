@@ -10,12 +10,22 @@
 
 ### 2. MARCO TEÓRICO (RESUMEN)
 
-### Capitulo 1: Ley de ohm
+### Capitulo 5: CIRCUITOS EN SERIE
 
-![](https://github.com/melaniegutierrez/INFORME-TAREA-3/blob/main/RES%20CAP%201.png)
+![](https://github.com/melaniegutierrez/INFORME-TAREA-3/blob/main/CAP%201.png)
 
-### Capitulo 2: Potencia y Energía
+### Capitulo 6: CIRCUITOS EN PARALELO
 
-![](https://github.com/melaniegutierrez/INFORME-TAREA-2/blob/main/RES%20CAP%202.png)
+![](https://github.com/melaniegutierrez/INFORME-TAREA-2/blob/main/CAP%202.png)
+
+### LEYES DE KIRCHHOFF
+
+![](https://github.com/melaniegutierrez/INFORME-TAREA-2/blob/main/CAP%203.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+### 4. VIDEO
+
+### 5. CONCLUSIONES
+
+### 6. BIBLIOGRAFIA
