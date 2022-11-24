@@ -16,11 +16,11 @@
 
 ### Capitulo 6: CIRCUITOS EN PARALELO
 
-![](https://github.com/melaniegutierrez/INFORME-TAREA-2/blob/main/CAP%202.png)
+![](https://github.com/melaniegutierrez/INFORME-TAREA-3/blob/main/CAP%202.png)
 
 ### LEYES DE KIRCHHOFF
 
-![](https://github.com/melaniegutierrez/INFORME-TAREA-2/blob/main/CAP%203.png)
+![](https://github.com/melaniegutierrez/INFORME-TAREA-3/blob/main/CAP%203.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
