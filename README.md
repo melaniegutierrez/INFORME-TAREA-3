@@ -162,19 +162,190 @@ Basándonos en la figura concluimos que los datos mostrados por la tabla son los
 
 Existe un corto entre la clavija 4 y el lado superior de la resistencia 11.
 
+**CAPITULO 6 CIRCUITOS EN PARALELO**
 
+**IMPARES**
 
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
 
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a1.png)
 
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66
 
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a2.png)
 
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores? 
 
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a3.png)
 
+Todos los voltajes de los medidores deberías señalar 100 v debido a su conexión en serie
 
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
 
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a4.png)
+
+La medida de voltaje para cualquier resistor en cualquier posición del interruptor sigue siendo la misma de 15 V debido a su conexión en serie, el valor que cambia con el interruptor es la corriente
+
+9.Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a5.png)
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a6.png)
+
+13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a7.png)
+
+15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a8.png)
+
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 Ω dispuestos en paralelo?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a9.png)
+
+19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18
+Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. 
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a10.png)
+
+21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a11.png)
+
+a)	SW1 y SW2 abiertos
+La resistencia seria únicamente la de R1 510 kΩ
+
+b)	SW1 cerrado, SW2 abierto
+Se suma la resistencia R1 Y R2 en paralelo
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a12.png)
+
+c)	SW1 abierto, SW2 cerrado
+La resistencia seria únicamente la de R1 510 kΩ
+
+d)	SW1 y SW2 cerrados
+Se suma la resistencia R1, R2 y R3 en paralelo
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a13.png)
+
+23. es resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a14.png)
+
+25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+La corriente del foco es 50mA.
+
+Cuando un foco se funde, los demás focos permanecerán encendidos.
+
+27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a15.png)
+
+29. Encuentre los valores de las cantidades no especificadas en la figura 6-77
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a16.png)
+
+31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a17.png)
+
+33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a18.png)
+
+35. Determine todos los valores de resistor en la figura 6-83. RT 5 773 Ω.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a19.png)
+
+37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición. 
+
+a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A? 
+
+1 mΩ
+
+b) ¿Cuánta corriente circula por el medidor?
+
+5 µA
+
+39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a20.png)
+
+41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a21.png)
+
+43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+I = 682 mA
+
+IT = 3,41 A
+
+45. ¿Qué está mal con el circuito de la figura 6-86?
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a22.png)
+
+El resistor abierto es de 8.2 kΩ
+
+47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a23.png)
+
+Clavijas 1-2
+
+Lectura correcta: R = 1,0 kΩ||3,3 kΩ = 767 Ω
+
+R1 abierto: R = 3,3 kΩ
+
+R2 abierto: R = 1,0 kΩ
+
+Clavijas 3-4
+
+Lectura correcta: R = 270 Ω|| 390 Ω = 159,5 Ω
+
+R3 abierto: R = 390 Ω
+
+R4 abierto: R = 270 Ω
+
+Clavijas 5-6
+Lectura correcta: R = 1,0 MΩ||1,8 MΩ||680 kΩ||510 kΩ = 201 kΩ
+
+R5 abierto: R = 1,8 MΩ ||680 kΩ||510 kΩ = 251 kΩ
+
+R6 abierto: R = 1,0 MΩ||680 kΩ||510 kΩ = 226 kΩ
+
+R7 abierto: R = 1,0 MΩ||1,8 MΩ||510 kΩ = 284 kΩ
+
+R8 abierto: R = 1,0 MΩ||1,8 MΩ||680 kΩ = 330 kΩ
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![](https://github.com/melaniegutierrez/CAP-TAR-3/blob/main/a24.png)
+
+a) 1 y 2
+
+R1-2 = (R1||R2||R3||R4||R11||R12) + (R5||R6||R7||R8||R9||R10) = 940 Ω
+
+b) 2 y 3
+
+R2-3 = R5||R6||R7||R8||R9||R10 = 518 Ω
+
+c) 2 y 4
+
+R2-4 = R5||R6||R7||R8||R9||R10 = 518 Ω
+
+d) 1 y 4
+
+R1-4 = R1||R2||R3||R4||R11||R12 = 422 Ω
 
 
 ### 4. VIDEO
+
+Link :
 
 ### 5. CONCLUSIONES
 
