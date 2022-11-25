@@ -345,8 +345,27 @@ R1-4 = R1||R2||R3||R4||R11||R12 = 422 Ω
 
 ### 4. VIDEO
 
-Link :
+Link : https://youtu.be/yh6UNM3BKsY
 
 ### 5. CONCLUSIONES
 
+Podemos concluir que los circuitos en serie y paralelo tienen diferentes usos y funciones, ademas de un analisis muy diferente entre si, sin embargo estos circuitos nos ayudan dependiendo de lo que necesitemos dentro de un circuito.
+
+Los resistores en todo circuito deben tener conecciones presisas debido a los calulos de resistencia en los diferentes circitos, es decir conectar una resistencia en serie es aditivo en valor, sin embargo en paralelo las resistencias son inversas.
+
+Los circuitos en paralelo tienen varias ventajas sobre los circuitos en serie debido a sus cortos, es decir si un ciruito paralelo se abre no afecta las demas conecciones lo que si pasa en los circuitos serie, es decir los circuitos paralelo aunque son un poco mas complicadas de analizar, tienen mas ventajas. 
+
 ### 6. BIBLIOGRAFIA
+
+Circuito en Serie - Concepto, elementos y ejemplos. (2013). Concepto. https://concepto.de/circuito-en-serie/
+
+‌Bismarks J.L. (2020, April 22). El comportamiento de un circuito depende totalmente de la configuración de sus Leer más... Electrónica Online; Electrónica Online. https://electronicaonline.net/circuito-electrico/circuito-en-paralelo/
+
+‌Khan Academy. (2022). Khanacademy.org. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+‌
+
+
+
+
+
