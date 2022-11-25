@@ -2,13 +2,13 @@
 
 ### 1. OBJETIVOS
 
-Explicar y definir las caracteristicas, usos y diseño de los circuitos en serie y paralelo, mediante el resumen en organizadores graficos de la teoria ademas de la resolucion de ejercicios acerca del analisis de circuitos con el fin de diferencias los dos tipos de circuitos estudiados. 
+Explicar y definir las caracteristicas, usos y diseño de los circuitos en serie y paralelo, mediante el resumen en organizadores gráficos de la teoría además de la resolución de ejercicios acerca del analisis de circuitos con el fin de diferenciar los dos tipos de circuitos estudiados. 
 
 **OBJETIVOS ESPECIFICOS**
 
 - Identificar un circuito en serie, en paralelo o mixto mediante el analisis de circuitos sistematicos para comprender de mejor manera la aplicacion de las leyes de Kirchhoff, Wat, Ohm, etc. en los diferentes circuitos.
 
-- Realizar calculos teoricos de los valores de voltaje, corriente y resistencia de los circuitos mediante el uso de formulas además de la ayuda de un multímetro para conocer las mediciones correctas en practicas que se deben realizar en los circuitos 
+- Realizar calculos teóricos de los valores de voltaje, corriente y resistencia de los circuitos mediante el uso de fórmulas además de la ayuda de un multímetro para conocer las mediciones correctas en practicas que se deben realizar en los circuitos 
 
 - Aprender el paso de trayectorias de corriente, ademas de la funcion de los componentes de cada circuito con el fin de poder diseñar circuitos que cumplan con las necesidades que se puedan presentar a lo largo del curso de aprendizaje. 
 
